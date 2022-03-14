@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I'm Ameya Daigavane, a senior undergraduate studying Computer Science with a minor in Mathematics at the Indian Institute of Technology, Guwahati.
+I'm Ameya Daigavane, an incoming PhD student at [MIT EECS](https://www.eecs.mit.edu/) where I will be working on equivariant machine learning methods.
 
