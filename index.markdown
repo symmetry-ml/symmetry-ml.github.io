@@ -5,4 +5,4 @@
 layout: home
 ---
 
-SymmetryML is a blog on machine learning models that provably capture some underlying symmetry of our data.
+SymmetryML is a blog on machine learning models that provably capture some underlying symmetry of our data, such as group equivariance.
