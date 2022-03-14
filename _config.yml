@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Simple Complexities
+title: SymmetryML
 email: ameya.d.98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ameya's math blog.
+  Machine Learning with Symmetry
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://simple-complexities.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://symmetry-ml.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  ameya98
 
